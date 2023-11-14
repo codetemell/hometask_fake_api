@@ -1,0 +1,112 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Alex",
+        "phone": "(93) 999-99-99",
+        "age": 18
+      },
+      {
+        "id": 2,
+        "title": "fugiat veniam minus",
+        "name": "Alex",
+        "phone": "(93) 999-99-99",
+        "age": 18
+      },
+      {
+        "id": 3,
+        "name": "Alex",
+        "title": "illo expedita consequat ",
+        "phone": "(93) 999-99-99",
+        "age": 18
+      },
+      {
+        "id": 4,
+        "name": "Alex",
+        "title": "et porro tempora",
+        "phone": "(93) 999-99-99",
+        "age": 18
+      },
+      {
+        "id": 5,
+        "title": "illo expedita consequatur quia in",
+        "name": "Alex",
+        "phone": "(93) 999-99-99",
+        "age": 18
+      }
+    ],
+    "todos": [
+      {
+        "userId": 1,
+        "id": 1,
+        "title": "salom",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "quis ut nam facilis et officia qui",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "title": "fugiat veniam minus",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "title": "et porro tempora",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "title": "illo expedita consequatur quia in",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "title": "quo adipisci enim quam ut ab",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "title": "molestiae perspiciatis ipsa",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "title": "illo est ratione doloremque quia maiores aut",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 20,
+        "title": "Pardaqulov Davlatshoh",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 22,
+        "title": "salom",
+        "completed": true
+      }
+    ]
+  }
